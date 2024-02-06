@@ -1,0 +1,8 @@
+model\catalog.class
+com\xml\reader\Xmlreader1Application.class
+com\xml\reader\LoggerController.class
+service\XmlParserService.class
+model\book.class
+repository\BookRepository.class
+service\BookService.class
+Controller\BookController.class
